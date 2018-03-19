@@ -1,0 +1,11 @@
+C:\Testes\ApiIdentity\ApiIdentity\bin\Debug\netcoreapp2.0\ApiIdentity.deps.json
+C:\Testes\ApiIdentity\ApiIdentity\bin\Debug\netcoreapp2.0\ApiIdentity.runtimeconfig.json
+C:\Testes\ApiIdentity\ApiIdentity\bin\Debug\netcoreapp2.0\ApiIdentity.runtimeconfig.dev.json
+C:\Testes\ApiIdentity\ApiIdentity\bin\Debug\netcoreapp2.0\ApiIdentity.dll
+C:\Testes\ApiIdentity\ApiIdentity\obj\Debug\netcoreapp2.0\ApiIdentity.csprojResolveAssemblyReference.cache
+C:\Testes\ApiIdentity\ApiIdentity\obj\Debug\netcoreapp2.0\ApiIdentity.csproj.CoreCompileInputs.cache
+C:\Testes\ApiIdentity\ApiIdentity\obj\Debug\netcoreapp2.0\ApiIdentity.AssemblyInfoInputs.cache
+C:\Testes\ApiIdentity\ApiIdentity\obj\Debug\netcoreapp2.0\ApiIdentity.AssemblyInfo.cs
+C:\Testes\ApiIdentity\ApiIdentity\bin\Debug\netcoreapp2.0\ApiIdentity.pdb
+C:\Testes\ApiIdentity\ApiIdentity\obj\Debug\netcoreapp2.0\ApiIdentity.dll
+C:\Testes\ApiIdentity\ApiIdentity\obj\Debug\netcoreapp2.0\ApiIdentity.pdb

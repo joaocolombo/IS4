@@ -1,0 +1,11 @@
+C:\Testes\ClienteIdentity\ClienteIdentity\bin\Debug\netcoreapp2.0\ClienteIdentity.deps.json
+C:\Testes\ClienteIdentity\ClienteIdentity\bin\Debug\netcoreapp2.0\ClienteIdentity.runtimeconfig.json
+C:\Testes\ClienteIdentity\ClienteIdentity\bin\Debug\netcoreapp2.0\ClienteIdentity.runtimeconfig.dev.json
+C:\Testes\ClienteIdentity\ClienteIdentity\bin\Debug\netcoreapp2.0\ClienteIdentity.dll
+C:\Testes\ClienteIdentity\ClienteIdentity\obj\Debug\netcoreapp2.0\ClienteIdentity.csproj.CoreCompileInputs.cache
+C:\Testes\ClienteIdentity\ClienteIdentity\obj\Debug\netcoreapp2.0\ClienteIdentity.AssemblyInfoInputs.cache
+C:\Testes\ClienteIdentity\ClienteIdentity\obj\Debug\netcoreapp2.0\ClienteIdentity.AssemblyInfo.cs
+C:\Testes\ClienteIdentity\ClienteIdentity\bin\Debug\netcoreapp2.0\ClienteIdentity.pdb
+C:\Testes\ClienteIdentity\ClienteIdentity\obj\Debug\netcoreapp2.0\ClienteIdentity.csprojResolveAssemblyReference.cache
+C:\Testes\ClienteIdentity\ClienteIdentity\obj\Debug\netcoreapp2.0\ClienteIdentity.dll
+C:\Testes\ClienteIdentity\ClienteIdentity\obj\Debug\netcoreapp2.0\ClienteIdentity.pdb
